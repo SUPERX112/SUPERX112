@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @SUPERX112
 - 👀 I have 15 years old and and I'm very interested in computer science in general
-- 🌱 I know C++, C# and python
+- 🌱 I know C++, C#, python, HTML, CSS and php
